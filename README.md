@@ -4,7 +4,7 @@ A simple paint application built with React, TypeScript, Tailwind CSS, and HTML5
 
 ## Demo
 
-You can try out the app live [here](https://paint-app-site.netlify.app/).
+You can try out the app live [here](https://paintappsite.netlify.app/).
 
 ## Features
 
